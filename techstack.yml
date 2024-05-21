@@ -1,0 +1,43 @@
+repo_name: naywintx/soundbound-extensions-lib
+report_id: 3acc3bf93dec4b1a741769bd648c3536
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-21T02:35:24+00:00'
+requested_by: Shabinder
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/naywintx/soundbound-extensions-lib
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/naywintx/soundbound-extensions-lib
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/naywintx/soundbound-extensions-lib/blob/master/gradlew
+  detection_source: gradlew
+  last_updated_by: Shabinder Singh
+  last_updated_on: 2021-11-03 20:49:11.000000000 Z
